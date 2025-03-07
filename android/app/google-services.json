@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797863823899",
+    "project_id": "shopertino-fc79b",
+    "storage_bucket": "shopertino-fc79b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797863823899:android:148876f009629403b546be",
+        "android_client_info": {
+          "package_name": "com.mynewproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797863823899-5sgj1rufjp30hghg6kea31ieisgtk6l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0hbSpGKjd3WCnyAphLm9x3-IVv1U8z2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797863823899-5sgj1rufjp30hghg6kea31ieisgtk6l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
